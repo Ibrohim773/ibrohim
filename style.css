@@ -1,0 +1,28 @@
+body{
+    background-color: #2A5D5A;
+}
+h1{
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77.45px;
+   color: white;
+   background: #311313;
+   text-align: center;
+   margin: 20px 400px;
+
+}
+.qora{
+    background-color: black;
+    border: 10px solid rgba(255, 6, 6, 1);
+    margin: 20px 220px;
+}
+p{
+    background-color: rgba(31, 232, 183, 1);
+    
+font-size: 24px;
+font-weight: 700;
+line-height: 29.05px;
+margin: 50px ;
+padding: 54px;
+}
+
